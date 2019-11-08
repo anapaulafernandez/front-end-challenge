@@ -1,1 +1,11 @@
 # front-end-challenge
+<!doctype html>
+<html>
+    <head>
+        <title>My first web page</title>
+    </head>
+    <body>
+        <h1>Hello, world</h1>
+        <p>This is an example...</p>
+    </body>
+</html>
