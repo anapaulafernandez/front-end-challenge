@@ -7,7 +7,7 @@ index 1234567..abcdefg 100644
  <!doctype html>
      <html>
          <head>
--            <title>My first web page</title>
+-            <title>Amount Saved</title>
 +            <title>Max's web page</title>
          </head>
          <body>
