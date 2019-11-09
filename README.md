@@ -1,14 +1,12 @@
 # front-end-challenge
-diff --git a/index.html b/index.html
-index 1234567..abcdefg 100644
---- a/index.html
-+++ b/index.html
-@@ -1,7 +1,7 @@
- <!doctype html>
-     <html>
-         <head>
--            <title>Amount Saved</title>
-+            <title>Max's web page</title>
-         </head>
-         <body>
-             <h1>Hello, world</h1>
+Amount Saved
+$1,077.11
+
+A $20 saving transaction will be executed on Aug 6, 2018
+You can customize your alerts on the top right icon
+
+
+Features
+Earn rewards by saving
+Save automatically
+Low balance protection
