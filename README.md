@@ -7,6 +7,7 @@
   </head>
   
   <body>
+  <img src=logo.png>
     <h2>Amount saved</h2>
     <h1>$1,077.11</h1>
   
