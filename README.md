@@ -3,11 +3,20 @@
   
   <head>
     <meta charset="utf-8">
+    <meta name="Author" content="Ana Paula"
     <title>Front-End challenge</title>
   </head>
   
   <body>
+    <header>
+      
+  </header>
   
+   <div class="container">
+  
+   </div>
+    
+    
   <img src=logo.png>
     <h2>Amount saved</h2>
     <h1>$1,077.11</h1>
