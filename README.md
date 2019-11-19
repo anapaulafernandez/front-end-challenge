@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
   
-  <head>
-    <meta charset="utf-8">
-    <meta name="Author" content="Ana Paula"
-    <title>Front-End challenge</title>
-  </head>
-  
   <body>
     <header>
       <div class="container">
