@@ -9,15 +9,20 @@
   
   <body>
     <header>
-      
+      <div class="container">
+        <img src="assets/logo.png alt="logo" class="logo">
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Log out</a></li>
+          </ul>
+        </nav>
+                     
   </header>
   
    <div class="container">
   
-   </div>
-    
-    
-  <img src=logo.png>
+   </div>   
     <h2>Amount saved</h2>
     <h1>$1,077.11</h1>
     <p>A $20 saving transaction will be executed on Aug 6,2018</p>
